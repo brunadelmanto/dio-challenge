@@ -24,9 +24,13 @@ Create a new repository on Github with a README.md file
 
 - mkdir git-github (create a folder named git-github)
 
+- cd git-github/ (enter the folder)
+
 - echo > learning.md (create a Markdown file, a simple html structure)
 
 - ls (list all the files in this folder to confirm the creator)
+
+- cd .. (back the folder)
 
 So we can edit this file in the Typora program. After edit this, we can push to Github server with the codes:
 

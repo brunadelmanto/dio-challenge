@@ -77,7 +77,7 @@ Set up the information of who makes the commits for the first time:
 - git config --global user.email "youremail"
 - git config --global user.name yourusername
 
-You can see how to install Git [here](https://github.com/brunadelmanto/dio-challenge/blob/main/Git-Github/Git-installation.md).
+You can see how to install Git [here](https://github.com/brunadelmanto/dio-challenge/blob/main/1.%20Git-Github/Git-installation.md).
 
 -----
 

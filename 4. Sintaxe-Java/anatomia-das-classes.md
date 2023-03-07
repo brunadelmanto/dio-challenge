@@ -1,10 +1,10 @@
-- nome do arquivo .java separado por traços: java-anatomia-classes
+- nome do diretório separado por traços: java-anatomia-classes
 
   
 
   Classes
 
-- nome de classes com letras iniciais maiúsculas: MinhaClasse
+- nome dos arquivos .java com letras iniciais maiúsculas: MinhaClasse
 
 - precisam estar na pasta src
 
